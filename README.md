@@ -2,8 +2,7 @@
 
 The simplest dice roller made in python using the random package
 
-![image](https://user-images.githubusercontent.com/98301106/161039499-369ad97a-90ba-4be1-89b5-185dd3a532a0.png)
-
+![image](https://user-images.githubusercontent.com/98301106/165231596-1034a1d7-a333-4c00-ad8a-69eba3b8462c.png)
 
 # Dependencies
 
