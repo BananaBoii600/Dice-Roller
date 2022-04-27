@@ -2,6 +2,7 @@ import random
 import time
 from os import system,name
 
+
 clear = lambda:system("clear") if name != "nt" else syatem("cls")
 
 def main():
@@ -22,4 +23,8 @@ def dice_roller():
     main()
 
 if __name__ == "__main__":
-    main()
+   try:
+        main()
+    except KeyboardInterrupt:
+        print("code interrupted")
+        exit(0)
